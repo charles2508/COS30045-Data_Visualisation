@@ -1,0 +1,70 @@
+{
+    "links": [
+    {"source":0,"target":12,"value":"39786"},
+    {"source":0,"target":11,"value":"599"},
+    {"source":0,"target":10,"value":"168375"},
+    {"source":0,"target":9,"value":"68405"},
+    {"source":0,"target":8,"value":"45733"},
+    {"source":0,"target":7,"value":"82252"},
+    {"source":0,"target":6,"value":"12823"},
+
+    {"source":12,"target":1,"value":"32571"},
+    {"source":12,"target":2,"value":"40"},
+    {"source":12,"target":3,"value":"2530"},
+    {"source":12,"target":4,"value":"1115"},
+    {"source":12,"target":5,"value":"3529"},
+
+    {"source":11,"target":1,"value":"65"},
+    {"source":11,"target":2,"value":"0"},
+    {"source":11,"target":3,"value":"0"},
+    {"source":11,"target":4,"value":"0"},
+    {"source":11,"target":5,"value":"534"},
+
+    {"source":9,"target":1,"value":"25700"},
+    {"source":9,"target":2,"value":"4963"},
+    {"source":9,"target":3,"value":"20286"},
+    {"source":9,"target":4,"value":"8723"},
+    {"source":9,"target":5,"value":"8734"},
+
+    {"source":8,"target":1,"value":"9930"},
+    {"source":8,"target":2,"value":"3987"},
+    {"source":8,"target":3,"value":"29559"},
+    {"source":8,"target":4,"value":"1485"},
+    {"source":8,"target":5,"value":"772"},
+    
+    {"source":7,"target":1,"value":"34439"},
+    {"source":7,"target":2,"value":"1510"},
+    {"source":7,"target":3,"value":"21859"},
+    {"source":7,"target":4,"value":"17458"},
+    {"source":7,"target":5,"value":"6985"},
+
+    {"source":6,"target":1,"value":"6066"},
+    {"source":6,"target":2,"value":"0"},
+    {"source":6,"target":3,"value":"4613"},
+    {"source":6,"target":4,"value":"1722"},
+    {"source":6,"target":5,"value":"421"},
+
+    {"source":10,"target":1,"value":"12208"},
+    {"source":10,"target":2,"value":"110471"},
+    {"source":10,"target":3,"value":"8933"},
+    {"source":10,"target":4,"value":"3155"},
+    {"source":10,"target":5,"value":"33608"}
+   
+    
+    ] ,
+    "nodes": [
+    {"node":0,"name":"Total Consumption"},
+    {"node":1,"name":"Industrial Sector"},
+    {"node":2,"name":"Transportation Sector"},
+    {"node":3,"name":"Residential Sector"},
+    {"node":4,"name":"Commercial and public services Sectors"},
+    {"node":5,"name":"Other Sectors"},
+    {"node":6,"name":"Heat"},
+    {"node":7,"name":"Electricity"},
+    {"node":8,"name":"Renewables and waste"},
+    {"node":9,"name":"Natural gas"},
+    {"node":10,"name":"Oil products"},
+    {"node":11,"name":"Crude, NGL and feedstocks"},
+    {"node":12,"name":"Coal, peat and oil shale"}
+
+    ] }
